@@ -1,1 +1,2 @@
 # sqlalchemy-challenge
+For this challenge, I analyzed Hawaii climate data using python and SQL Alchemy. I saved the data in a sql lite database that is accessible by the app.py file. I was assisted by chat gpt.
